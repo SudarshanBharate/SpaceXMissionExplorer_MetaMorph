@@ -25,7 +25,7 @@ Working:
 
 <img width="1625" height="174" alt="image" src="https://github.com/user-attachments/assets/e2398642-21e4-4282-a909-37a963754814" />
 
-- Accessing stored data directly instead of re-retrieving
+- Accessing stored data directly from Database instead of re-retrieving
 
 <img width="1914" height="866" alt="image" src="https://github.com/user-attachments/assets/1db43079-6b03-4a4f-8544-309086c15a5a" />
 
